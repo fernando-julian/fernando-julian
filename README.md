@@ -1,5 +1,5 @@
 ## 👋 Hi there 
-<hr>
+
 ### 🛠️ My Skills
 <hr>
 #### Programming languages
