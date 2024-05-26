@@ -1,7 +1,7 @@
-## Hi there 👋
-## 🛠️ My Skills
+## 👋 Hi there 
+### 🛠️ My Skills
 
-### 👉 Programming languages
+#### 👉 Programming languages
 <p align="left"> 
   <a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-### 👉 Frameworks
+#### 👉 Frameworks
 <p align="left"> 
   &emsp; 
   <a href="https://www.tensorflow.org/" target="_blank"> 
@@ -52,7 +52,7 @@
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+#### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -61,19 +61,19 @@
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
- ### 👉 Software & Tools
- 
-<p>
+ #### 👉 Software & Tools
+ <p>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
  </p>
+ 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox" />
 <br/>
-------
-## 📞 Contact Us
+
+### 📞 Contact Us
 <p align="center">
   <a href="https://x.com/FerDzib17" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
@@ -91,7 +91,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
   </a>
 </p>
+
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox" />
 <br/>
-------
