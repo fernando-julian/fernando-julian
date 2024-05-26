@@ -1,6 +1,7 @@
 ## 👋 Hi there 
+<hr>
 ### 🛠️ My Skills
-
+<hr>
 #### Programming languages
 <p align="left"> 
   <a href="https://python.org/">
@@ -70,6 +71,7 @@
  </p>
 
 ### 📞 Contact Us
+<hr>
 <p align="center">
   <a href="https://x.com/FerDzib17" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
