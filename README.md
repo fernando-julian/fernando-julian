@@ -1,7 +1,7 @@
 ## 👋 Hi there 
 ### 🛠️ My Skills
 
-#### 👉 Programming languages
+#### Programming languages
 <p align="left"> 
   <a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-#### 👉 Frameworks
+#### Frameworks
 <p align="left"> 
   &emsp; 
   <a href="https://www.tensorflow.org/" target="_blank"> 
@@ -52,7 +52,7 @@
   </a>
 </p>
 
-#### 👉 Databases & Cloud Hosting
+#### Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -61,7 +61,7 @@
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
- #### 👉 Software & Tools
+ #### Software & Tools
  <p>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
